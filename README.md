@@ -104,14 +104,3 @@ Identify which customers are most likely to churn so the company can take preven
 - SQL joins, CTEs, window functions
 
 ---
-
-## 🌐 Optional: Portfolio Website
-**Repo Name:** `sasikunapaneni.github.io`
-
-**Tech Stack:** GitHub Pages (Markdown or React), HTML/CSS, optional Tailwind
-
-### Sections:
-- About Me
-- Resume (PDF download)
-- Projects (with live links to repos)
-- Contact Info
